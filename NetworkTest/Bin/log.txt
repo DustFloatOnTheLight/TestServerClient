@@ -1,0 +1,168 @@
+周五 12月 25 2020
+18:04:01
+HelloClient!
+
+周五 12月 25 2020
+18:06:48
+HelloClient!
+
+周五 12月 25 2020
+18:07:59
+Hello Client! This is a testcase!
+
+周三 12月 30 2020
+18:43:32
+The Access is Not Allowed
+
+周三 12月 30 2020
+18:53:01
+Cannot Obtain Data From Server
+
+周三 12月 30 2020
+18:57:57
+[com.lexi.testserver.model.mysql.StaffPO@2b1a267a, com.lexi.testserver.model.mysql.StaffPO@1291a522, com.lexi.testserver.model.mysql.StaffPO@8bc1639, com.lexi.testserver.model.mysql.StaffPO@67270430]
+
+周三 12月 30 2020
+18:58:55
+[com.lexi.testserver.model.mysql.StaffPO@50a6b827, com.lexi.testserver.model.mysql.StaffPO@181d163, com.lexi.testserver.model.mysql.StaffPO@58397a78, com.lexi.testserver.model.mysql.StaffPO@760b3b6b]
+
+周三 12月 30 2020
+18:59:00
+[com.lexi.testserver.model.mysql.StaffPO@6e4dd9c1, com.lexi.testserver.model.mysql.StaffPO@6a7250d0, com.lexi.testserver.model.mysql.StaffPO@2f70d3fa, com.lexi.testserver.model.mysql.StaffPO@1e96ba8f]
+
+周三 12月 30 2020
+18:59:01
+[com.lexi.testserver.model.mysql.StaffPO@5bde92c8, com.lexi.testserver.model.mysql.StaffPO@5fe10d6b, com.lexi.testserver.model.mysql.StaffPO@1ae398f3, com.lexi.testserver.model.mysql.StaffPO@4541c0a]
+
+周三 12月 30 2020
+18:59:02
+[com.lexi.testserver.model.mysql.StaffPO@36d8137b, com.lexi.testserver.model.mysql.StaffPO@79c5384a, com.lexi.testserver.model.mysql.StaffPO@3def60a6, com.lexi.testserver.model.mysql.StaffPO@5be9cc62]
+
+周三 12月 30 2020
+18:59:02
+[com.lexi.testserver.model.mysql.StaffPO@5f5bb931, com.lexi.testserver.model.mysql.StaffPO@5b643602, com.lexi.testserver.model.mysql.StaffPO@1e66b30a, com.lexi.testserver.model.mysql.StaffPO@2d220a79]
+
+周三 12月 30 2020
+18:59:03
+[com.lexi.testserver.model.mysql.StaffPO@7b998ca7, com.lexi.testserver.model.mysql.StaffPO@7fa6170c, com.lexi.testserver.model.mysql.StaffPO@3aa4869c, com.lexi.testserver.model.mysql.StaffPO@3c9fb028]
+
+周三 12月 30 2020
+18:59:03
+[com.lexi.testserver.model.mysql.StaffPO@6619cc8f, com.lexi.testserver.model.mysql.StaffPO@4f5f2cb5, com.lexi.testserver.model.mysql.StaffPO@6436b513, com.lexi.testserver.model.mysql.StaffPO@55c8f54b]
+
+周三 12月 30 2020
+18:59:03
+[com.lexi.testserver.model.mysql.StaffPO@7c6e5cc2, com.lexi.testserver.model.mysql.StaffPO@7acc67bc, com.lexi.testserver.model.mysql.StaffPO@5edc90a3, com.lexi.testserver.model.mysql.StaffPO@696cdab4]
+
+周三 12月 30 2020
+18:59:03
+[com.lexi.testserver.model.mysql.StaffPO@7d8b2536, com.lexi.testserver.model.mysql.StaffPO@3b278071, com.lexi.testserver.model.mysql.StaffPO@2e38c1ab, com.lexi.testserver.model.mysql.StaffPO@6156c2e4]
+
+周三 12月 30 2020
+18:59:03
+[com.lexi.testserver.model.mysql.StaffPO@559c4b1f, com.lexi.testserver.model.mysql.StaffPO@7e494c45, com.lexi.testserver.model.mysql.StaffPO@4305e037, com.lexi.testserver.model.mysql.StaffPO@796be8ce]
+
+周三 12月 30 2020
+18:59:04
+[com.lexi.testserver.model.mysql.StaffPO@448597b9, com.lexi.testserver.model.mysql.StaffPO@5a8b79d3, com.lexi.testserver.model.mysql.StaffPO@1b549c5a, com.lexi.testserver.model.mysql.StaffPO@37519927]
+
+周三 12月 30 2020
+18:59:04
+[com.lexi.testserver.model.mysql.StaffPO@4b11975b, com.lexi.testserver.model.mysql.StaffPO@1ade2d07, com.lexi.testserver.model.mysql.StaffPO@82ee1ba, com.lexi.testserver.model.mysql.StaffPO@1c91b518]
+
+周三 12月 30 2020
+18:59:04
+[com.lexi.testserver.model.mysql.StaffPO@7e8279c1, com.lexi.testserver.model.mysql.StaffPO@44e1b73a, com.lexi.testserver.model.mysql.StaffPO@4b576c68, com.lexi.testserver.model.mysql.StaffPO@7c122cbe]
+
+周三 12月 30 2020
+18:59:04
+[com.lexi.testserver.model.mysql.StaffPO@42f3cdbe, com.lexi.testserver.model.mysql.StaffPO@2a2e69d2, com.lexi.testserver.model.mysql.StaffPO@7db8df91, com.lexi.testserver.model.mysql.StaffPO@3f61dada]
+
+周三 12月 30 2020
+18:59:04
+[com.lexi.testserver.model.mysql.StaffPO@16ef8592, com.lexi.testserver.model.mysql.StaffPO@30642219, com.lexi.testserver.model.mysql.StaffPO@3af446a2, com.lexi.testserver.model.mysql.StaffPO@7e02cd7f]
+
+周三 12月 30 2020
+18:59:04
+[com.lexi.testserver.model.mysql.StaffPO@5a6f8388, com.lexi.testserver.model.mysql.StaffPO@aff684e, com.lexi.testserver.model.mysql.StaffPO@7ef18cf7, com.lexi.testserver.model.mysql.StaffPO@7a086090]
+
+周三 12月 30 2020
+18:59:05
+[com.lexi.testserver.model.mysql.StaffPO@30a0eaf3, com.lexi.testserver.model.mysql.StaffPO@4f7cfe6c, com.lexi.testserver.model.mysql.StaffPO@5ed4abee, com.lexi.testserver.model.mysql.StaffPO@6f8c6b08]
+
+周三 12月 30 2020
+18:59:05
+[com.lexi.testserver.model.mysql.StaffPO@582233e7, com.lexi.testserver.model.mysql.StaffPO@286620a7, com.lexi.testserver.model.mysql.StaffPO@45fc8ec9, com.lexi.testserver.model.mysql.StaffPO@4cb2af84]
+
+周三 12月 30 2020
+18:59:05
+[com.lexi.testserver.model.mysql.StaffPO@3a9afbfa, com.lexi.testserver.model.mysql.StaffPO@165ef6f, com.lexi.testserver.model.mysql.StaffPO@30e34293, com.lexi.testserver.model.mysql.StaffPO@48cd54ec]
+
+周三 12月 30 2020
+18:59:26
+[com.lexi.testserver.model.mysql.StaffPO@7064ae08, com.lexi.testserver.model.mysql.StaffPO@2ae01c9a, com.lexi.testserver.model.mysql.StaffPO@6066460d, com.lexi.testserver.model.mysql.StaffPO@1af5e8e]
+
+周三 12月 30 2020
+19:12:07
+[Staff: id=1 no=001 name=张三 deptID=1, Staff: id=2 no=002 name=李四 deptID=2, Staff: id=3 no=003 name=王五 deptID=3, Staff: id=4 no=010 name=离谱 deptID=2]
+
+周三 12月 30 2020
+19:12:52
+[Staff: id=1 no=001 name=张三 deptID=1
+, Staff: id=2 no=002 name=李四 deptID=2
+, Staff: id=3 no=003 name=王五 deptID=3
+, Staff: id=4 no=010 name=离谱 deptID=2
+]
+
+周三 12月 30 2020
+19:13:59
+Cannot Obtain Data From Server
+
+周三 12月 30 2020
+19:15:54
+[Staff: id=1 no=001 name=张三 deptID=1
+, Staff: id=2 no=002 name=李四 deptID=2
+, Staff: id=3 no=003 name=王五 deptID=3
+, Staff: id=4 no=010 name=离谱 deptID=2
+]
+
+周三 12月 30 2020
+19:17:07
+Cannot Obtain Data From Server
+
+周三 12月 30 2020
+19:20:49
+[Staff: id=1 no=001 name=张三 deptID=1
+, Staff: id=2 no=002 name=李四 deptID=2
+, Staff: id=3 no=003 name=王五 deptID=3
+, Staff: id=4 no=010 name=离谱 deptID=2
+]
+
+周三 12月 30 2020
+19:22:44
+[Staff: id=1 no=001 name=张三 deptID=1
+, Staff: id=2 no=002 name=李四 deptID=2
+, Staff: id=3 no=003 name=王五 deptID=3
+, Staff: id=4 no=010 name=离谱 deptID=2
+]
+
+周三 12月 30 2020
+19:23:33
+[Staff: id=1 no=001 name=张三 deptID=1
+, Staff: id=2 no=002 name=李四 deptID=2
+, Staff: id=3 no=003 name=王五 deptID=3
+, Staff: id=4 no=010 name=离谱 deptID=2
+]
+
+周三 12月 30 2020
+19:25:22
+Cannot Obtain Data From Server
+
+周三 12月 30 2020
+19:25:56
+[Staff: id=1 no=001 name=张三 deptID=1
+, Staff: id=2 no=002 name=李四 deptID=2
+, Staff: id=3 no=003 name=王五 deptID=3
+, Staff: id=4 no=010 name=离谱 deptID=2
+]
+
